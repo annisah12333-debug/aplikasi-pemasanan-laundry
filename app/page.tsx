@@ -127,7 +127,6 @@ export default function Home() {
       <header className="bg-emerald-700 text-white shadow-md">
         <div className="max-w-6xl mx-auto px-4 py-4 flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center space-x-3 mb-2 md:mb-0">
-            {/* NAMA APLIKASI DI HEADER */}
             <span className="text-2xl font-bold tracking-wide">Laundry Express</span>
           </div>
           <nav className="flex flex-wrap gap-2">
